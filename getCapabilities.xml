@@ -257,7 +257,7 @@
 				<Title>area_lucas_02_paulistana___area_lucas_02_paulistana_kmz</Title>
 				<Abstract>GH:area_lucas_02_paulistana___area_lucas_02_paulistana_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.1724137822547" miny="-8.06319979477349" maxx="-41.14278368911361" maxy="-8.047974350782717"></LatLonBoundingBox>
@@ -277,7 +277,7 @@
 				<Title>area_lucas_01_paulistna___area_lucas_01_paulistna_kmz</Title>
 				<Abstract>GH:area_lucas_01_paulistna___area_lucas_01_paulistna_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.17341168515458" miny="-8.05686075013037" maxx="-41.14369707534482" maxy="-8.04059323944728"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>area_esposa_ivanildo_paulistana___area_esposa_ivanildo_paulistana_kmz</Title>
 				<Abstract>GH:area_esposa_ivanildo_paulistana___area_esposa_ivanildo_paulistana_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.17133144481033" miny="-8.075675811045889" maxx="-41.1406161497472" maxy="-8.057694436645393"></LatLonBoundingBox>
@@ -317,7 +317,7 @@
 				<Title>area_caio_damasceno_paulistana___area_caio_damasceno_paulistana_kmz</Title>
 				<Abstract>GH:area_caio_damasceno_paulistana___area_caio_damasceno_paulistana_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.14493361000001" miny="-8.068634440000013" maxx="-41.12024582999999" maxy="-8.04608583"></LatLonBoundingBox>
@@ -337,7 +337,7 @@
 				<Title>area_caio_damasceno_paulistana_2___area_caio_damasceno_paulistana_2_kmz</Title>
 				<Abstract>GH:area_caio_damasceno_paulistana_2___area_caio_damasceno_paulistana_2_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.13852049341764" miny="-8.058295484965948" maxx="-41.12623416370215" maxy="-8.04723199667717"></LatLonBoundingBox>
@@ -357,7 +357,7 @@
 				<Title>area_bibiano_paulistana___bibiano_paulistana</Title>
 				<Abstract>GH:area_bibiano_paulistana___bibiano_paulistana ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.16498209515219" miny="-8.089609076147234" maxx="-41.15175925573077" maxy="-8.064326371222739"></LatLonBoundingBox>
@@ -377,7 +377,7 @@
 				<Title>area_valfredo_paulistana___area_valfredo_paulistana_kmz</Title>
 				<Abstract>GH:area_valfredo_paulistana___area_valfredo_paulistana_kmz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-41.16905441618798" miny="-8.089083537853073" maxx="-41.15137482313652" maxy="-8.061809524245243"></LatLonBoundingBox>
